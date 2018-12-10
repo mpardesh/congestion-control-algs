@@ -13,7 +13,7 @@ Graphs like this show traffic patterns seen by different congestion control algo
 ## Meeting My Milestone 
 My original first milestone was to be able to run experiments and produce graphs like the one above. I have also learned how to change the experiment parameters and run controlled experiments. I have a list of URLs that I plan to run experiments on. These URLs are believed to use the Akamai congestion control algorithm. I have achieved my milestone. 
 
-##Surprises 
+## Surprises 
 We use servers from UW Madison and sometimes there aren’t enough machines available. There isn’t much we can do about this. I just need to make sure I start experiments early enough to avoid being stuck without machines at the last minute. 
 
 ## Revisions to 15-400 Milestones 
