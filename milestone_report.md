@@ -6,7 +6,7 @@ No major changes.
 ## What I Have Accomplished So Far 
 So far, I have learned how to request servers, configure the machines, run and extend experiments, and interpret graphs. I have figured out how to tweak different parameters like delay and probability of packet loss. I have also learned some theory about how networks and congestion control algorithms work. I have been able to make graphs that show time vs % of queue filled, like this one:
 
-[insert image]
+![Graph](https://github.com/mpardesh/congestion-control-algs/blob/master/images/cca.png)
 
 Graphs like this show traffic patterns seen by different congestion control algorithms and give hints as to which algorithm the web site is using. This graph shows the traffic patterns for https://www.python.org/ftp/python/3.7.0/python-3.7.0-macosx10.6.pkg. It looks like this website uses the TCP Cubic congestion control algorithm.   
 
