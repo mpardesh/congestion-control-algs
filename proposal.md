@@ -32,7 +32,13 @@ By March 22, I will start analyzing the experiment results and mapping send patt
 
 From April 5 to April 19, I plan to continue analyzing experiment results and mapping send patterns to known CCAs. I will form a more solid theory about when the Akamai algorithm behaves like known CCAs.  
 
-By May 3, I will make sure my theory is as specific as possible and tie up any loose ends. 
+By May 3, I will make sure my theory is as specific as possible and tie up any loose ends.
+
+[Milestone 1](https://mpardesh.github.io/congestion-control-algs/milestone_report)
+
+[Milestone 2](https://mpardesh.github.io/congestion-control-algs/milestone_2)
+
+[Milestone 3](https://mpardesh.github.io/congestion-control-algs/milestone_3)
 
 ## Literature Search 
 I have started reading Computer networking: a top-down approach by Kuros and Ross. I plan to read more about specific congestion control algorithms, especially Reno and any others that the Akamai algorithm may be similar to. I will continue to look for materials when I feel that I am missing information.    
