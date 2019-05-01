@@ -46,6 +46,8 @@ By May 3, I will make sure my theory is as specific as possible and tie up any l
 
 [Milestone 6](https://mpardesh.github.io/congestion-control-algs/milestone_6)
 
+[Milestone 7](https://mpardesh.github.io/congestion-control-algs/milestone_7)
+
 ## Literature Search 
 I have started reading Computer networking: a top-down approach by Kuros and Ross. I plan to read more about specific congestion control algorithms, especially Reno and any others that the Akamai algorithm may be similar to. I will continue to look for materials when I feel that I am missing information.    
 
