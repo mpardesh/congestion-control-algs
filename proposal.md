@@ -53,3 +53,6 @@ I have started reading Computer networking: a top-down approach by Kuros and Ros
 
 ## Resources Needed 
 I will be using the servers that Dr. Sherry’s group has already configured. I have access to the group GitHub repository that contains the code that will be relevant to my project.
+
+## Final Report 
+[Here it is!](https://mpardesh.github.io/congestion-control-algs/400paper.pdf)
